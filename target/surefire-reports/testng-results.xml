@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="90" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="90" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+      <class name="QAautomation.AutomaionTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:QAautomation.AutomaionTest@73ad2d6]" name="BrowserAutomation" duration-ms="1" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUi()[pri:0, instance:QAautomation.AutomaionTest@73ad2d6]" name="elementUi" duration-ms="1" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- QAautomation.AutomaionTest -->
+      <class name="QAautomation.RESTAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:QAautomation.RESTAPITest@7085bdee]" name="DeleteTwitter" duration-ms="0" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:QAautomation.RESTAPITest@7085bdee]" name="PostJira" duration-ms="1" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- QAautomation.RESTAPITest -->
+      <class name="QAautomation.AppiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:QAautomation.AppiumTest@3fee9989]" name="IOSApp" duration-ms="11" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="NativeAppandriod()[pri:0, instance:QAautomation.AppiumTest@3fee9989]" name="NativeAppandriod" duration-ms="1" started-at="2019-10-04T17:08:25 GST" finished-at="2019-10-04T17:08:25 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppandriod -->
+      </class> <!-- QAautomation.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
